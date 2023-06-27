@@ -16,7 +16,7 @@ ColorPicker: A MAUI-based app for generating random colors or customizing RGB va
 #
 This repository contains the complete source code of ColorPicker, including the necessary project files and dependencies. We encourage developers and color enthusiasts to explore, enhance, and customize the app to suit their specific needs.
 #
-![image](https://github.com/aadarsh0001/ColorPicker/assets/117271222/d63a30b8-b5b5-404c-8794-65bde94c0118)
+![image](https://github.com/aadarsh0001/ColorPicker/assets/117271222/db4a75e6-6af6-499a-a92b-9c0adbbf2dd9)
 
 # To get started, follow these steps:
 
